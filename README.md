@@ -3,27 +3,6 @@
 # What can it do!
 It can download all the provided test cases for a single problem or all problems of a single contest at once with proper folder structure.
 And create solution files for c++ and as well as python with the contents of cpp_template.txt and py_template.txt for each problem.</br>
-```bash
-Educational Codeforces Round 92 (Rated for Div. 2)\
-        A. LCM Problem\
-                A. LCM Problem.py
-                A. LCM Problem.cpp
-                input.txt
-                output.txt
-        ..........................
-        ..........................
-        F. Bicolored Segments\
-                F. Bicolored Segments.py
-                F. Bicolored Segments.cpp
-                input.txt
-                output.txt
-                input1.txt
-                output1.txt
-                input2.txt
-                output2.txt
-        ..........................
-        ..........................
-```
 
 # Setup/Installation
 ### Requirements: Python 3.7+, Python Modules: requests, re, os, sys </br>
@@ -54,8 +33,9 @@ Enter info(link, path): https://codeforces.com/contest/1389/problem/C
 # Example 2: https://codeforces.com/contest/1389/, C:\Users\Shanto\Desktop\CodeForces
 Enter info(link, path): 
 ```
+
 Also can be run with command line arguments. </br>
-Give link and path(optional! separated by '&nbsp;'[space character] and also surround it with double quotation if it contains space character in it!) as command line arguments.</br>
+Give link and path(optional! separated by '&nbsp; '[space character] and also surround it with double quotation if it contains space character in it!) as command line arguments.</br>
 
 ```bash
 # Example 1:
