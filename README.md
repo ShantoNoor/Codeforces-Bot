@@ -13,7 +13,7 @@ pip install requests
 ```
 
 # How to use
-Just provide the link to the problem or contest with path(here to download). Here the path is optional. </br>
+Just provide the link to the problem or contest with path(where to download). Here the path is optional. </br>
 If don't provided then it will by default use the default path provided in ```CF_Bot.py at line 93```
 
 ```python
