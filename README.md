@@ -30,8 +30,8 @@ Run Command: ```python CF_Bot.py``` <br />
 Enter info(link, path): https://codeforces.com/contest/1389/problem/C
 ```
 ```bash
-# Example 2: https://codeforces.com/contest/1389/, C:\Users\Shanto\Desktop\CodeForces
-Enter info(link, path): 
+# Example 2: 
+Enter info(link, path): https://codeforces.com/contest/1389/, C:\Users\Shanto\Desktop\CodeForces
 ```
 
 Also can be run with command line arguments. </br>
