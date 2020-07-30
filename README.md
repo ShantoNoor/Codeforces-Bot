@@ -2,7 +2,7 @@
 
 # What can it do!
 It can download all the provided test cases for a single problem or all problems of a single contest at once with proper folder structure.
-And create the solution files for c++ and as well as python with the contents of cpp_template.txt and py_template.txt for each problem.</br>
+And create solution files for c++ and as well as python with the contents of cpp_template.txt and py_template.txt for each problem.</br>
 ```bash
 Educational Codeforces Round 92 (Rated for Div. 2)\
         A. LCM Problem\
