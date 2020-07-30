@@ -13,16 +13,10 @@ pip install requests
 ```
 
 # How to use
-Just provide the link to the problem or contest with path(where to download). Here the path is optional. </br>
+Just provide the link of a problem or a contest with a path(where to download). Here the path is optional. </br>
 If don't provided then it will by default use the default path provided in ```CF_Bot.py at line 93```
 
-```python
-# file name = CF_Bot.py
-# line number = 93
-
-path = r'' #<-- Default Path: if not set it will use main_path(where CF_Bot.py is located!)
-```
-Run CF_Bot.py and give link and a path(optional! separated by ','[comma character]).</br>
+Run CF_Bot.py and give link and path(optional! separated by ','[comma character]).</br>
 Run Command: ```python CF_Bot.py``` <br />
 
 ```bash
@@ -34,7 +28,7 @@ Enter info(link, path): https://codeforces.com/contest/1389/problem/C
 Enter info(link, path): https://codeforces.com/contest/1389/, C:\Users\Shanto\Desktop\CodeForces
 ```
 
-Also can be run with command line arguments. </br>
+Also it can be run with command line arguments. </br>
 Give link and path(optional! separated by '&nbsp; '[space character] and also surround it with double quotation if it contains space character in it!) as command line arguments.</br>
 
 ```bash
