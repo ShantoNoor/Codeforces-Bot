@@ -70,7 +70,7 @@ Path: C:\Users\Shanto\Desktop\CodeForces
 
 Process finished successfully!...
 ```
-Also run with command line arguments. </br>
+Also can be run with command line arguments. </br>
 Give link and path(optional! separated by ' '[space character] and also surround it with double quotation if it contains space character in it!) as command line arguments.</br>
 ```bash
 # Example 1:
