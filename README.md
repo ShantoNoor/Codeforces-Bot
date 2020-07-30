@@ -45,16 +45,29 @@ path = r'' #<-- Default Path: if not set it will use main_path(where CF_Bot.py i
 ```
 Run CF_Bot.py and give link and a path(optional! separated by ','[comma character]).</br>
 Run Command: ```python CF_Bot.py``` <br />
+
 ```bash
 # Example 1:
 Enter info(link, path): https://codeforces.com/contest/1389/problem/C
 ```
 ```bash
-# Example 2:
-Enter info(link, path): https://codeforces.com/contest/1389/problem/C, C:\Users\Shanto\Desktop\CodeForces
+# Example 2: https://codeforces.com/contest/1389/, C:\Users\Shanto\Desktop\CodeForces
+Enter info(link, path): 
+```
+Also can be run with command line arguments. </br>
+Give link and path(optional! separated by '&nbsp;'[space character] and also surround it with double quotation if it contains space character in it!) as command line arguments.</br>
+
+```bash
+# Example 1:
+python https://codeforces.com/contest/1389/problem/C
 ```
 ```bash
-# Output: Example 2
+# Example 2:
+python CF_Bot.py https://codeforces.com/contest/1389/ "C:\Users\Shanto\Desktop\CodeForces"
+```
+
+```bash
+# Output: Example 1
 
 Codeforces Bot by Shanto Noor !...
 Starting process...
@@ -69,16 +82,6 @@ Path: C:\Users\Shanto\Desktop\CodeForces
                 output.txt
 
 Process finished successfully!...
-```
-Also can be run with command line arguments. </br>
-Give link and path(optional! separated by '  '[space character] and also surround it with double quotation if it contains space character in it!) as command line arguments.</br>
-```bash
-# Example 1:
-python CF_Bot.py CF_Bot.py https://codeforces.com/contest/1389/
-```
-```bash
-# Example 2:
-python CF_Bot.py https://codeforces.com/contest/1389/ "C:\Users\Shanto\Desktop\CodeForces"
 ```
 ```bash
 # Output: Example 2
