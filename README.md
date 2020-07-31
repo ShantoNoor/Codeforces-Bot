@@ -33,7 +33,7 @@ Give link and path(optional! separated by '&nbsp; '[space character] and also su
 
 ```bash
 # Example 1:
-python https://codeforces.com/contest/1389/problem/C
+python CF_Bot.py https://codeforces.com/contest/1389/problem/C
 ```
 ```bash
 # Example 2:
